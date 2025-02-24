@@ -1,0 +1,391 @@
+24-Feb-2025 10:25:20.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 10:25:20.835 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 10:25:20.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 10:25:20.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 10:25:20.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 10:25:20.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 10:25:20.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 10:25:20.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 10:25:20.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 10:25:20.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 10:25:20.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 10:25:21.099 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 10:25:21.099 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 10:25:21.133 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 10:25:22.363 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:25:22.403 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2530] milliseconds
+24-Feb-2025 10:25:22.569 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 10:25:22.570 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 10:25:22.615 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 10:25:34.399 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 10:25:52.485 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [29,868] ms
+24-Feb-2025 10:25:52.491 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:25:52.624 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [30221] milliseconds
+24-Feb-2025 10:35:50.265 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 10:35:50.345 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 10:35:50.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 10:35:50.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 10:35:50.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 10:35:50.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 10:35:50.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 10:35:50.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 10:35:50.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 10:35:50.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 10:35:50.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 10:35:50.496 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 10:35:50.496 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 10:35:50.511 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 10:35:51.616 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:35:51.700 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [3360] milliseconds
+24-Feb-2025 10:35:51.831 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 10:35:51.831 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 10:35:51.863 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 10:36:09.111 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 10:36:20.901 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [29,037] ms
+24-Feb-2025 10:36:20.953 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:36:21.035 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [29338] milliseconds
+24-Feb-2025 10:37:02.946 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 10:37:02.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 10:37:02.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 10:37:02.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 10:37:02.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 10:37:02.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 10:37:02.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 10:37:02.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 10:37:02.994 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 10:37:02.995 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 10:37:02.995 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 10:37:03.051 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 10:37:03.054 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 10:37:03.097 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 10:37:04.540 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:37:04.741 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [3214] milliseconds
+24-Feb-2025 10:37:04.922 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 10:37:04.922 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 10:37:04.980 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 10:37:20.360 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 10:37:30.462 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [25,481] ms
+24-Feb-2025 10:37:30.471 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:37:30.520 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [25778] milliseconds
+24-Feb-2025 10:39:57.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 10:39:57.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 10:39:57.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 10:39:57.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 10:39:57.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 10:39:57.717 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 10:39:57.717 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 10:39:57.717 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 10:39:57.717 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 10:39:57.717 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 10:39:57.717 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 10:39:57.740 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 10:39:57.741 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 10:39:57.747 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 10:39:58.509 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:39:58.558 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1614] milliseconds
+24-Feb-2025 10:39:58.786 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 10:39:58.786 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 10:39:58.836 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 10:40:09.393 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 10:40:24.189 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [25,350] ms
+24-Feb-2025 10:40:24.197 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:40:24.231 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [25672] milliseconds
+24-Feb-2025 10:49:45.435 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 10:49:45.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 10:49:45.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 10:49:45.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 10:49:45.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 10:49:45.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 10:49:45.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 10:49:45.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 10:49:45.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 10:49:45.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 10:49:45.489 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 10:49:45.504 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 10:49:45.504 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 10:49:45.515 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 10:49:46.133 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:49:46.226 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2300] milliseconds
+24-Feb-2025 10:49:46.462 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 10:49:46.469 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 10:49:46.485 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 10:49:54.752 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 10:50:03.685 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [17,198] ms
+24-Feb-2025 10:50:03.690 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:50:03.701 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [17476] milliseconds
+24-Feb-2025 10:54:22.440 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 10:54:22.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 10:54:22.462 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 10:54:22.463 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 10:54:22.463 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 10:54:22.464 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 10:54:22.465 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 10:54:22.469 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 10:54:22.470 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 10:54:22.470 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 10:54:22.470 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 10:54:22.497 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 10:54:22.497 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 10:54:22.508 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 10:54:23.311 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:54:23.434 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1483] milliseconds
+24-Feb-2025 10:54:23.631 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 10:54:23.631 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 10:54:23.665 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 10:54:31.163 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 10:54:45.750 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [22,083] ms
+24-Feb-2025 10:54:45.756 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:54:45.771 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [22338] milliseconds
+24-Feb-2025 10:56:32.126 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 10:56:32.134 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 10:56:32.135 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 10:56:32.136 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 10:56:32.136 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 10:56:32.137 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 10:56:32.137 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 10:56:32.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 10:56:32.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 10:56:32.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 10:56:32.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 10:56:32.173 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 10:56:32.176 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 10:56:32.184 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 10:56:33.746 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:56:33.829 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2604] milliseconds
+24-Feb-2025 10:56:33.975 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 10:56:33.976 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 10:56:34.125 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 10:56:48.012 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 10:57:01.851 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [27,725] ms
+24-Feb-2025 10:57:01.855 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:57:01.872 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [28042] milliseconds
+24-Feb-2025 10:59:21.121 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 10:59:21.136 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 10:59:21.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 10:59:21.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 10:59:21.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 10:59:21.139 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 10:59:21.139 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 10:59:21.139 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 10:59:21.139 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 10:59:21.139 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 10:59:21.139 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 10:59:21.158 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 10:59:21.158 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 10:59:21.165 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 10:59:21.899 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:59:21.959 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1792] milliseconds
+24-Feb-2025 10:59:22.188 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 10:59:22.192 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 10:59:22.250 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 10:59:32.916 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 10:59:44.061 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [21,809] ms
+24-Feb-2025 10:59:44.068 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 10:59:44.087 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [22133] milliseconds
+24-Feb-2025 11:16:14.518 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 11:16:14.527 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 11:16:14.527 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 11:16:14.527 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 11:16:14.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 11:16:14.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 11:16:14.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 11:16:14.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 11:16:14.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 11:16:14.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 11:16:14.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 11:16:14.541 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 11:16:14.541 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 11:16:14.550 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 11:16:15.272 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:16:15.310 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1397] milliseconds
+24-Feb-2025 11:16:15.387 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 11:16:15.393 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 11:16:15.418 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 11:16:25.688 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 11:16:33.171 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [17,751] ms
+24-Feb-2025 11:16:33.174 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:16:33.185 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [17874] milliseconds
+24-Feb-2025 11:17:52.671 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 11:17:52.698 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 11:17:52.707 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 11:17:52.708 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 11:17:52.708 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 11:17:52.708 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 11:17:52.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 11:17:52.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 11:17:52.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 11:17:52.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 11:17:52.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 11:17:52.738 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 11:17:52.740 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 11:17:52.749 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 11:17:53.459 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:17:53.518 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1570] milliseconds
+24-Feb-2025 11:17:53.582 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 11:17:53.584 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 11:17:53.667 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 11:18:04.195 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 11:18:13.223 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [19,555] ms
+24-Feb-2025 11:18:13.228 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:18:13.244 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [19729] milliseconds
+24-Feb-2025 11:19:05.147 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 11:19:05.157 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 11:19:05.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 11:19:05.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 11:19:05.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 11:19:05.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 11:19:05.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 11:19:05.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 11:19:05.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 11:19:05.159 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 11:19:05.160 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 11:19:05.166 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 11:19:05.167 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 11:19:05.172 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 11:19:05.655 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:19:05.699 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1530] milliseconds
+24-Feb-2025 11:19:05.785 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 11:19:05.790 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 11:19:05.817 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 11:19:12.671 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 11:19:20.948 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [15,130] ms
+24-Feb-2025 11:19:20.951 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:19:20.971 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [15272] milliseconds
+24-Feb-2025 11:21:52.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 11:21:52.362 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 11:21:52.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 11:21:52.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 11:21:52.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 11:21:52.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 11:21:52.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 11:21:52.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 11:21:52.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 11:21:52.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 11:21:52.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 11:21:52.380 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 11:21:52.380 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 11:21:52.385 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 11:21:53.097 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:21:53.153 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1390] milliseconds
+24-Feb-2025 11:21:53.231 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 11:21:53.254 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 11:21:53.273 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 11:22:04.012 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 11:22:11.843 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [18,567] ms
+24-Feb-2025 11:22:11.848 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:22:11.862 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [18708] milliseconds
+24-Feb-2025 11:25:16.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 11:25:16.427 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 11:25:16.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 11:25:16.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 11:25:16.429 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 11:25:16.430 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 11:25:16.431 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 11:25:16.431 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 11:25:16.432 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 11:25:16.432 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 11:25:16.432 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 11:25:16.479 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 11:25:16.480 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 11:25:16.495 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 11:25:17.358 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:25:17.458 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1991] milliseconds
+24-Feb-2025 11:25:17.555 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 11:25:17.562 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 11:25:17.631 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 11:25:26.398 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 11:25:39.437 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [21,804] ms
+24-Feb-2025 11:25:39.441 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:25:39.451 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [21993] milliseconds
+24-Feb-2025 11:28:57.958 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 11:28:57.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 11:28:57.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 11:28:57.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 11:28:57.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 11:28:57.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 11:28:57.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 11:28:57.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 11:28:57.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 11:28:57.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 11:28:57.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 11:28:57.982 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 11:28:57.983 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 11:28:57.998 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 11:28:58.721 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:28:58.789 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1398] milliseconds
+24-Feb-2025 11:28:58.926 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 11:28:58.927 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 11:28:58.948 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 11:29:04.984 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 11:29:16.701 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [17,751] ms
+24-Feb-2025 11:29:16.706 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:29:16.733 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [17946] milliseconds
+24-Feb-2025 11:31:43.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 11:31:43.327 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 11:31:43.327 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 11:31:43.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 11:31:43.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 11:31:43.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 11:31:43.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 11:31:43.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 11:31:43.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 11:31:43.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 11:31:43.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 11:31:43.356 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 11:31:43.356 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 11:31:43.408 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 11:31:44.280 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:31:44.329 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1741] milliseconds
+24-Feb-2025 11:31:44.489 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 11:31:44.489 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 11:31:44.524 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 11:31:52.355 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 11:32:00.328 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [15,803] ms
+24-Feb-2025 11:32:00.334 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:32:00.360 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [16023] milliseconds
+24-Feb-2025 11:36:04.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 11:36:04.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 11:36:04.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 11:36:04.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 11:36:04.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 11:36:04.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 11:36:04.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 11:36:04.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 11:36:04.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 11:36:04.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 11:36:04.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 11:36:04.436 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 11:36:04.436 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 11:36:04.451 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 11:36:04.979 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:36:05.015 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1348] milliseconds
+24-Feb-2025 11:36:05.158 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 11:36:05.158 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 11:36:05.187 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 11:36:14.572 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 11:36:23.030 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [17,842] ms
+24-Feb-2025 11:36:23.034 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:36:23.051 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [18037] milliseconds
+24-Feb-2025 11:38:23.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.10
+24-Feb-2025 11:38:23.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2023 18:11:59 UTC
+24-Feb-2025 11:38:23.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.10.0
+24-Feb-2025 11:38:23.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Feb-2025 11:38:23.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.12.5-linuxkit
+24-Feb-2025 11:38:23.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Feb-2025 11:38:23.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-3.el8.aarch64
+24-Feb-2025 11:38:23.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.7+7-LTS
+24-Feb-2025 11:38:23.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+24-Feb-2025 11:38:23.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+24-Feb-2025 11:38:23.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+24-Feb-2025 11:38:23.334 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent An older version [1.2.37] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.1]
+24-Feb-2025 11:38:23.336 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.37] using APR version [1.6.3].
+24-Feb-2025 11:38:23.340 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  FIPS 25 Mar 2021]
+24-Feb-2025 11:38:24.061 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:38:24.119 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1414] milliseconds
+24-Feb-2025 11:38:24.198 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Feb-2025 11:38:24.198 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+24-Feb-2025 11:38:24.213 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/share]
+24-Feb-2025 11:38:32.044 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Feb-2025 11:38:39.553 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/share] has finished in [15,337] ms
+24-Feb-2025 11:38:39.560 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Feb-2025 11:38:39.578 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [15459] milliseconds

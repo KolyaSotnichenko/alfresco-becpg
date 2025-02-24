@@ -1,0 +1,9 @@
+2025-02-24 11:22:03.933 UTC [50] LOG:  starting PostgreSQL 14.4 (Debian 14.4-1.pgdg110+1) on aarch64-unknown-linux-gnu, compiled by gcc (Debian 10.2.1-6) 10.2.1 20210110, 64-bit
+2025-02-24 11:22:03.955 UTC [50] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-24 11:22:04.034 UTC [52] LOG:  database system was shut down at 2025-02-24 11:22:02 UTC
+2025-02-24 11:22:04.188 UTC [50] LOG:  database system is ready to accept connections
+2025-02-24 11:22:05.692 UTC [50] LOG:  received fast shutdown request
+2025-02-24 11:22:05.693 UTC [50] LOG:  aborting any active transactions
+2025-02-24 11:22:05.705 UTC [50] LOG:  background worker "logical replication launcher" (PID 58) exited with exit code 1
+2025-02-24 11:22:05.708 UTC [53] LOG:  shutting down
+2025-02-24 11:22:05.779 UTC [50] LOG:  database system is shut down
