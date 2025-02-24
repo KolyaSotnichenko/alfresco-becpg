@@ -9,7 +9,7 @@ services:
             ALFRESCO_TAG: ${ALFRESCO_CE_TAG}
             DB: postgres
             SOLR_COMMS: secret 
-        mem_limit: 1856m
+        mem_limit: 4096m
         depends_on: 
             - postgres  
         environment:
